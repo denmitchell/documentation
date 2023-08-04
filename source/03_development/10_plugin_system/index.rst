@@ -159,7 +159,7 @@ also add under ``src/main/assembly/assembly.xml``
 
 Dependencies
 -------------
-The EHRbase bom provides the correct version for als Dependencies used by EHRbase and are provided by it. Thus any depandances in the bom has to be included with scope provided. Additional Dependencies need to be packed into the jar. This is done via the maven-assembly-plugin.
+The EHRbase bom provides the correct version for als Dependencies used by EHRbase and are provided by it. Thus any dependencies in the bom have to be included with scope provided. Additional Dependencies need to be packed into the jar. This is done via the maven-assembly-plugin.
 
 Plugin entrypoint
 -----------------
